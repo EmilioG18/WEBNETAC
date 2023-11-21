@@ -1,0 +1,182 @@
+[
+    {
+        "id": "martillo-01",
+        "titulo": "Martillo 01",
+        "imagen": "./img/martillos/01.jpg",
+        "categoria": {
+            "nombre": "martillos",
+            "id": "martillos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "martillo-02",
+        "titulo": "Martillo 02",
+        "imagen": "./img/martillos/02.jpg",
+        "categoria": {
+            "nombre": "martillos",
+            "id": "martillos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "martillo-03",
+        "titulo": "Martillo 03",
+        "imagen": "./img/martillos/03.jpg",
+        "categoria": {
+            "nombre": "martillos",
+            "id": "martillos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "martillo-04",
+        "titulo": "Martillo 04",
+        "imagen": "./img/martillos/04.jpg",
+        "categoria": {
+            "nombre": "martillos",
+            "id": "martillos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "martillo-05",
+        "titulo": "Martillo 05",
+        "imagen": "./img/martillos/05.jpg",
+        "categoria": {
+            "nombre": "martillos",
+            "id": "martillos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-01",
+        "titulo": "hogar 01",
+        "imagen": "./img/hogars/01.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-02",
+        "titulo": "hogar 02",
+        "imagen": "./img/hogars/02.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-03",
+        "titulo": "hogar 03",
+        "imagen": "./img/hogars/03.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-04",
+        "titulo": "hogar 04",
+        "imagen": "./img/hogars/04.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-05",
+        "titulo": "hogar 05",
+        "imagen": "./img/hogars/05.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-06",
+        "titulo": "hogar 06",
+        "imagen": "./img/hogars/06.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-07",
+        "titulo": "hogar 07",
+        "imagen": "./img/hogars/07.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hogar-08",
+        "titulo": "hogar 08",
+        "imagen": "./img/hogars/08.jpg",
+        "categoria": {
+            "nombre": "hogars",
+            "id": "hogars"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "construccion-01",
+        "titulo": "construcciones 01",
+        "imagen": "./img/construcciones/01.jpg",
+        "categoria": {
+            "nombre": "construcciones",
+            "id": "construcciones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "construccion-02",
+        "titulo": "construccion 02",
+        "imagen": "./img/construcciones/02.jpg",
+        "categoria": {
+            "nombre": "construcciones",
+            "id": "construcciones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "construccion-03",
+        "titulo": "construcciones 03",
+        "imagen": "./img/construcciones/03.jpg",
+        "categoria": {
+            "nombre": "construcciones",
+            "id": "construcciones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "construccion-04",
+        "titulo": "construcciones 04",
+        "imagen": "./img/construcciones/04.jpg",
+        "categoria": {
+            "nombre": "construcciones",
+            "id": "construcciones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "construccion-05",
+        "titulo": "construcciones 05",
+        "imagen": "./img/construcciones/05.jpg",
+        "categoria": {
+            "nombre": "construcciones",
+            "id": "construcciones"
+        },
+        "precio": 1000
+    }
+]
